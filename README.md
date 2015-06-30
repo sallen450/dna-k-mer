@@ -14,3 +14,6 @@
 	* 引内存使用
 	* 8G内存下，所能支持的k值范围
 	* 建立索引时间
+
+
+基于 [winguse/GeneIndexer](https://github.com/winguse/GeneIndexer) 修改
